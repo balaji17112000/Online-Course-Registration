@@ -1,0 +1,68 @@
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.footer{
+    background-color: 	#ADD8E6;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: #4169E1 ;
+    color:floralwhite;
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+}
+
+.navbar-dark {
+    background-color: #00009B;
+}
+ .centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  
+  transform: translate(-50%, -50%);
+}
+.centered1 {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  
+   
+  transform: translate(-50%, -50%);
+ 
+}
+
+.container {
+  position: relative;
+
+}
+.custom-modal-style {
+
+position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height:  100%;
+    width: 100%;
+    z-index: 1000;
+    background-color: rgba(255, 255, 255, 255);
+	overflow-y: scroll;
+}
+
